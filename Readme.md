@@ -1,5 +1,7 @@
 # VIT Full Stack API Solution
 
+Author: Vedant Singh Jadon
+
 A REST API built for the VIT Full Stack Question Paper that processes input arrays and returns categorized data including numbers, alphabets, and special characters.
 
 ## 🚀 Features
